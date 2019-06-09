@@ -1,0 +1,11 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\bin\Debug\netcoreapp2.1\01. CommandPattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\bin\Debug\netcoreapp2.1\01. CommandPattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\bin\Debug\netcoreapp2.1\01. CommandPattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\bin\Debug\netcoreapp2.1\01. CommandPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\bin\Debug\netcoreapp2.1\01. CommandPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.pdb

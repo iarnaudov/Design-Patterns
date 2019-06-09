@@ -1,0 +1,11 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\bin\Debug\netcoreapp2.1\03. BuilderPattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\bin\Debug\netcoreapp2.1\03. BuilderPattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\bin\Debug\netcoreapp2.1\03. BuilderPattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\bin\Debug\netcoreapp2.1\03. BuilderPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\bin\Debug\netcoreapp2.1\03. BuilderPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\obj\Debug\netcoreapp2.1\03. BuilderPattern.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\obj\Debug\netcoreapp2.1\03. BuilderPattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\obj\Debug\netcoreapp2.1\03. BuilderPattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\obj\Debug\netcoreapp2.1\03. BuilderPattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\obj\Debug\netcoreapp2.1\03. BuilderPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\03.Builder\obj\Debug\netcoreapp2.1\03. BuilderPattern.pdb

@@ -1,0 +1,11 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\bin\Debug\netcoreapp2.1\04. Prototype.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\bin\Debug\netcoreapp2.1\04. Prototype.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\bin\Debug\netcoreapp2.1\04. Prototype.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\bin\Debug\netcoreapp2.1\04. Prototype.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\bin\Debug\netcoreapp2.1\04. Prototype.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.pdb
