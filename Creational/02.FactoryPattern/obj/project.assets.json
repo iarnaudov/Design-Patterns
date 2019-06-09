@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Creational\\02.FactoryPattern\\02. FactoryPattern.csproj",
+      "projectUniqueName": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Creational\\02.FactoryPattern\\02. FactoryPattern.csproj",
       "projectName": "02. FactoryPattern",
-      "projectPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Creational\\02.FactoryPattern\\02. FactoryPattern.csproj",
+      "projectPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Creational\\02.FactoryPattern\\02. FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\iarna\\.nuget\\packages\\",
-      "outputPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Creational\\02.FactoryPattern\\obj\\",
+      "outputPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Creational\\02.FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

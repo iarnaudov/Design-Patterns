@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Behavioral\\01.CommandPattern\\01. CommandPattern.csproj",
+      "projectUniqueName": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Behavioral\\01.CommandPattern\\01. CommandPattern.csproj",
       "projectName": "01. CommandPattern",
-      "projectPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Behavioral\\01.CommandPattern\\01. CommandPattern.csproj",
+      "projectPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Behavioral\\01.CommandPattern\\01. CommandPattern.csproj",
       "packagesPath": "C:\\Users\\iarna\\.nuget\\packages\\",
-      "outputPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Behavioral\\01.CommandPattern\\obj\\",
+      "outputPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Behavioral\\01.CommandPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

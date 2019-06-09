@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Creational\\01.Singleton\\01. Singleton.csproj",
+      "projectUniqueName": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Creational\\01.Singleton\\01. Singleton.csproj",
       "projectName": "01. Singleton",
-      "projectPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Creational\\01.Singleton\\01. Singleton.csproj",
+      "projectPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Creational\\01.Singleton\\01. Singleton.csproj",
       "packagesPath": "C:\\Users\\iarna\\.nuget\\packages\\",
-      "outputPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\SoftwareUniversity\\C# Fundamentals\\DesignPatterns\\Creational\\01.Singleton\\obj\\",
+      "outputPath": "D:\\Програмиране\\SoftUni Homeworks\\SoftUni - GitHub\\DesignPatterns\\Creational\\01.Singleton\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
