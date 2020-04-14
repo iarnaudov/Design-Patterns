@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\bin\Debug\netcoreapp3.1\05. AbstractFactory.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\bin\Debug\netcoreapp3.1\05. AbstractFactory.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\bin\Debug\netcoreapp3.1\05. AbstractFactory.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\bin\Debug\netcoreapp3.1\05. AbstractFactory.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\bin\Debug\netcoreapp3.1\05. AbstractFactory.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\bin\Debug\netcoreapp3.1\05. AbstractFactory.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\obj\Debug\netcoreapp3.1\05. AbstractFactory.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\obj\Debug\netcoreapp3.1\05. AbstractFactory.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\obj\Debug\netcoreapp3.1\05. AbstractFactory.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\obj\Debug\netcoreapp3.1\05. AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\obj\Debug\netcoreapp3.1\05. AbstractFactory.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\obj\Debug\netcoreapp3.1\05. AbstractFactory.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. AbstractFactory\obj\Debug\netcoreapp3.1\05. AbstractFactory.genruntimeconfig.cache

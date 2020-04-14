@@ -13,8 +13,6 @@ namespace _03.Builder
         private bool _hasSalad;
         private bool _hasMayonnaise;
 
-        public HamburgerBuilder Builder => new HamburgerBuilder();
-
         public HamburgerBuilder AddBread()
         {
             _hasBread = true;

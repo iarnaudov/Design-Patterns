@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\bin\Debug\netcoreapp3.1\02. BridgePattern.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\bin\Debug\netcoreapp3.1\02. BridgePattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\bin\Debug\netcoreapp3.1\02. BridgePattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\bin\Debug\netcoreapp3.1\02. BridgePattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\bin\Debug\netcoreapp3.1\02. BridgePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\bin\Debug\netcoreapp3.1\02. BridgePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\obj\Debug\netcoreapp3.1\02. BridgePattern.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\obj\Debug\netcoreapp3.1\02. BridgePattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\obj\Debug\netcoreapp3.1\02. BridgePattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\obj\Debug\netcoreapp3.1\02. BridgePattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\obj\Debug\netcoreapp3.1\02. BridgePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\obj\Debug\netcoreapp3.1\02. BridgePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\02. BridgePattern\obj\Debug\netcoreapp3.1\02. BridgePattern.genruntimeconfig.cache

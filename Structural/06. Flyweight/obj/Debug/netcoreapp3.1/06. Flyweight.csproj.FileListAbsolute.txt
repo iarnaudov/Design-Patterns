@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\bin\Debug\netcoreapp3.1\06. Flyweight.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\bin\Debug\netcoreapp3.1\06. Flyweight.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\bin\Debug\netcoreapp3.1\06. Flyweight.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\bin\Debug\netcoreapp3.1\06. Flyweight.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\bin\Debug\netcoreapp3.1\06. Flyweight.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\bin\Debug\netcoreapp3.1\06. Flyweight.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\obj\Debug\netcoreapp3.1\06. Flyweight.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\obj\Debug\netcoreapp3.1\06. Flyweight.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\obj\Debug\netcoreapp3.1\06. Flyweight.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\obj\Debug\netcoreapp3.1\06. Flyweight.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\obj\Debug\netcoreapp3.1\06. Flyweight.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\obj\Debug\netcoreapp3.1\06. Flyweight.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Flyweight\obj\Debug\netcoreapp3.1\06. Flyweight.genruntimeconfig.cache

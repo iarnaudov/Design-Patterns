@@ -9,3 +9,4 @@ D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Cr
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.AssemblyInfo.cs
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.dll
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Creational\04. Prototype\obj\Debug\netcoreapp2.1\04. Prototype.genruntimeconfig.cache

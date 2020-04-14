@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\bin\Debug\netcoreapp3.1\03. Composite Pattern.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\bin\Debug\netcoreapp3.1\03. Composite Pattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\bin\Debug\netcoreapp3.1\03. Composite Pattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\bin\Debug\netcoreapp3.1\03. Composite Pattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\bin\Debug\netcoreapp3.1\03. Composite Pattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\bin\Debug\netcoreapp3.1\03. Composite Pattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\obj\Debug\netcoreapp3.1\03. Composite Pattern.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\obj\Debug\netcoreapp3.1\03. Composite Pattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\obj\Debug\netcoreapp3.1\03. Composite Pattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\obj\Debug\netcoreapp3.1\03. Composite Pattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\obj\Debug\netcoreapp3.1\03. Composite Pattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\obj\Debug\netcoreapp3.1\03. Composite Pattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\03. Composite Pattern\obj\Debug\netcoreapp3.1\03. Composite Pattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\bin\Debug\netcoreapp3.1\05. FacadePattern.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\bin\Debug\netcoreapp3.1\05. FacadePattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\bin\Debug\netcoreapp3.1\05. FacadePattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\bin\Debug\netcoreapp3.1\05. FacadePattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\bin\Debug\netcoreapp3.1\05. FacadePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\bin\Debug\netcoreapp3.1\05. FacadePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\obj\Debug\netcoreapp3.1\05. FacadePattern.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\obj\Debug\netcoreapp3.1\05. FacadePattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\obj\Debug\netcoreapp3.1\05. FacadePattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\obj\Debug\netcoreapp3.1\05. FacadePattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\obj\Debug\netcoreapp3.1\05. FacadePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\obj\Debug\netcoreapp3.1\05. FacadePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. FacadePattern\obj\Debug\netcoreapp3.1\05. FacadePattern.genruntimeconfig.cache

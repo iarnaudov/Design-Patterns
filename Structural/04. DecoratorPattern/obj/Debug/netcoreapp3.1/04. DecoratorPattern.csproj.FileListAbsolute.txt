@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\bin\Debug\netcoreapp3.1\04. DecoratorPattern.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\bin\Debug\netcoreapp3.1\04. DecoratorPattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\bin\Debug\netcoreapp3.1\04. DecoratorPattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\bin\Debug\netcoreapp3.1\04. DecoratorPattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\bin\Debug\netcoreapp3.1\04. DecoratorPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\bin\Debug\netcoreapp3.1\04. DecoratorPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\obj\Debug\netcoreapp3.1\04. DecoratorPattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\obj\Debug\netcoreapp3.1\04. DecoratorPattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\obj\Debug\netcoreapp3.1\04. DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\obj\Debug\netcoreapp3.1\04. DecoratorPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\obj\Debug\netcoreapp3.1\04. DecoratorPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\obj\Debug\netcoreapp3.1\04. DecoratorPattern.genruntimeconfig.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. DecoratorPattern\obj\Debug\netcoreapp3.1\04. DecoratorPattern.csprojAssemblyReference.cache

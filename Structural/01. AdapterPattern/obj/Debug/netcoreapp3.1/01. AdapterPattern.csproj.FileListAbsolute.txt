@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\bin\Debug\netcoreapp3.1\01. AdapterPattern.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\bin\Debug\netcoreapp3.1\01. AdapterPattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\bin\Debug\netcoreapp3.1\01. AdapterPattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\bin\Debug\netcoreapp3.1\01. AdapterPattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\bin\Debug\netcoreapp3.1\01. AdapterPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\bin\Debug\netcoreapp3.1\01. AdapterPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\obj\Debug\netcoreapp3.1\01. AdapterPattern.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\obj\Debug\netcoreapp3.1\01. AdapterPattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\obj\Debug\netcoreapp3.1\01. AdapterPattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\obj\Debug\netcoreapp3.1\01. AdapterPattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\obj\Debug\netcoreapp3.1\01. AdapterPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\obj\Debug\netcoreapp3.1\01. AdapterPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\01. AdapterPattern\obj\Debug\netcoreapp3.1\01. AdapterPattern.genruntimeconfig.cache
