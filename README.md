@@ -1,23 +1,22 @@
 ## Creational
 #### 1.	Singleton - The singleton pattern is used to limit creation of a class to only one object.
-https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
-https://refactoring.guru/design-patterns/singleton
+
 #### 2.	Factory Method - In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
-https://refactoring.guru/design-patterns/factory-method
-https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+
 #### 3.	Abstract Factory is a creational design pattern, which solves the problem of creating entire product families without specifying their concrete classes. Also called factory of factories.
-https://refactoring.guru/design-patterns/abstract-factory
+
 #### 4.	Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code. Builder lets you run some additional construction steps before fetching the product.
+
 #### 5.	Prototype - Implementing correct copy strategy for complex objects.
-https://www.dofactory.com/net/prototype-design-pattern
 this.MemberwiseClone -> Shallow Copy (all value types without references)
 this.MemberwiseClone + references setup -> Deep copy
 Direct assignment keeps the references and up on changing them, the newly created object changes it as well. We want to avoid that by copying directly and ensuring the copy will not change.
 
 ## Structural 
 #### 1.	Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate. Adapter is commonly used with an existing app to make some otherwise-incompatible classes work together nicely. We should use the Adapter class whenever we want to work with the existing class but its interface is not compatible with the rest of our code. Basically, the Adapter pattern is a middle-layer which serves as a translator between the code implemented in our project and some third party class or any other class with a different interface.
-https://www.codeproject.com/Articles/774259/Adapter-Design-Pattern-Csharp
+
 #### 2.	Bridge pattern decouples the abstraction from the implementation so they can work independently. It is used for applying great extensibility on both the class and the abstract class. They can be changed independently without breaking one another. Message, message sender.
+
 #### 3.	Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects. Implement single interface for all objects. Implement Composite object (elements that have children) and leaf elements that share the same interface.
 #### 4.	Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.  Decorator pattern allows a user to add new functionality to an existing object without altering its structure. This pattern creates a decorator class which wraps the original class and provides additional functionality keeping class methods signature intact. Use the Decorator pattern when you need to be able to assign extra behaviors to objects at runtime without breaking the code that uses these objects.
 #### 5.	Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes. Use the Facade pattern when you need to have a limited but straightforward interface to a complex subsystem. Facade pattern hides the complexities of the system and provides an interface to the client using which the client can access the system. This pattern involves a single class which provides simplified methods required by client and delegates calls to methods of existing system classes.
