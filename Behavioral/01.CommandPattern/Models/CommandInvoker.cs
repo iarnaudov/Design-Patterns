@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _03.CommandPattern.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,16 +7,21 @@ namespace _03.CommandPattern
 {
     class CommandInvoker
     {
-        private ICommand command;
+        private List<Order> orderList = new List<Order>();
 
-        public void SetCommand(ICommand command)
+        public void TakeOrder(Order order)
         {
-            this.command = command;
+            orderList.Add(order);
         }
 
-        public void ExecuteCommand()
+        public void ExecuteOrders()
         {
-            command.Execute();
+            foreach (Order order in orderList)
+            {
+                order.Execute();
+            }
+
+            orderList.Clear();
         }
 
     }

@@ -9,3 +9,4 @@ D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Be
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.AssemblyInfo.cs
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.dll
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\01.CommandPattern\obj\Debug\netcoreapp2.1\01. CommandPattern.genruntimeconfig.cache

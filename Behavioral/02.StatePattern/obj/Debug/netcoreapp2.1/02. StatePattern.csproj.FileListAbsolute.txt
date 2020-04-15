@@ -9,3 +9,4 @@ D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Be
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\02.StatePattern\obj\Debug\netcoreapp2.1\02. StatePattern.AssemblyInfo.cs
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\02.StatePattern\obj\Debug\netcoreapp2.1\02. StatePattern.dll
 D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\02.StatePattern\obj\Debug\netcoreapp2.1\02. StatePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\Behavioral\02.StatePattern\obj\Debug\netcoreapp2.1\02. StatePattern.genruntimeconfig.cache
