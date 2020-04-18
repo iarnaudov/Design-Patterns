@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\bin\Debug\netcoreapp3.1\06. Observer.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\bin\Debug\netcoreapp3.1\06. Observer.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\bin\Debug\netcoreapp3.1\06. Observer.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\bin\Debug\netcoreapp3.1\06. Observer.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\bin\Debug\netcoreapp3.1\06. Observer.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\bin\Debug\netcoreapp3.1\06. Observer.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\obj\Debug\netcoreapp3.1\06. Observer.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\obj\Debug\netcoreapp3.1\06. Observer.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\obj\Debug\netcoreapp3.1\06. Observer.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\obj\Debug\netcoreapp3.1\06. Observer.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\obj\Debug\netcoreapp3.1\06. Observer.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\obj\Debug\netcoreapp3.1\06. Observer.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\06. Observer\obj\Debug\netcoreapp3.1\06. Observer.genruntimeconfig.cache

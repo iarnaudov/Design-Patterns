@@ -1,0 +1,12 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\bin\Debug\netcoreapp3.1\07. StrategyPattern.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\bin\Debug\netcoreapp3.1\07. StrategyPattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\bin\Debug\netcoreapp3.1\07. StrategyPattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\bin\Debug\netcoreapp3.1\07. StrategyPattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\bin\Debug\netcoreapp3.1\07. StrategyPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\bin\Debug\netcoreapp3.1\07. StrategyPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\obj\Debug\netcoreapp3.1\07. StrategyPattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\obj\Debug\netcoreapp3.1\07. StrategyPattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\obj\Debug\netcoreapp3.1\07. StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\obj\Debug\netcoreapp3.1\07. StrategyPattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\obj\Debug\netcoreapp3.1\07. StrategyPattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\07. StrategyPattern\obj\Debug\netcoreapp3.1\07. StrategyPattern.genruntimeconfig.cache

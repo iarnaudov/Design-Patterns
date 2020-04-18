@@ -1,0 +1,13 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\bin\Debug\netcoreapp3.1\05. Memento.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\bin\Debug\netcoreapp3.1\05. Memento.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\bin\Debug\netcoreapp3.1\05. Memento.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\bin\Debug\netcoreapp3.1\05. Memento.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\bin\Debug\netcoreapp3.1\05. Memento.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\bin\Debug\netcoreapp3.1\05. Memento.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\obj\Debug\netcoreapp3.1\05. Memento.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\obj\Debug\netcoreapp3.1\05. Memento.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\obj\Debug\netcoreapp3.1\05. Memento.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\obj\Debug\netcoreapp3.1\05. Memento.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\obj\Debug\netcoreapp3.1\05. Memento.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\obj\Debug\netcoreapp3.1\05. Memento.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\05. Memento\obj\Debug\netcoreapp3.1\05. Memento.genruntimeconfig.cache

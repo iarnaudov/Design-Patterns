@@ -1,0 +1,12 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\bin\Debug\netcoreapp3.1\08. TemplatePattern.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\bin\Debug\netcoreapp3.1\08. TemplatePattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\bin\Debug\netcoreapp3.1\08. TemplatePattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\bin\Debug\netcoreapp3.1\08. TemplatePattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\bin\Debug\netcoreapp3.1\08. TemplatePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\bin\Debug\netcoreapp3.1\08. TemplatePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\obj\Debug\netcoreapp3.1\08. TemplatePattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\obj\Debug\netcoreapp3.1\08. TemplatePattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\obj\Debug\netcoreapp3.1\08. TemplatePattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\obj\Debug\netcoreapp3.1\08. TemplatePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\obj\Debug\netcoreapp3.1\08. TemplatePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\08. TemplatePattern\obj\Debug\netcoreapp3.1\08. TemplatePattern.genruntimeconfig.cache

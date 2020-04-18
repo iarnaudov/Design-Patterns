@@ -1,0 +1,12 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\bin\Debug\netcoreapp3.1\04. Mediator.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\bin\Debug\netcoreapp3.1\04. Mediator.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\bin\Debug\netcoreapp3.1\04. Mediator.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\bin\Debug\netcoreapp3.1\04. Mediator.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\bin\Debug\netcoreapp3.1\04. Mediator.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\bin\Debug\netcoreapp3.1\04. Mediator.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\obj\Debug\netcoreapp3.1\04. Mediator.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\obj\Debug\netcoreapp3.1\04. Mediator.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\obj\Debug\netcoreapp3.1\04. Mediator.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\obj\Debug\netcoreapp3.1\04. Mediator.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\obj\Debug\netcoreapp3.1\04. Mediator.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\DesignPatterns\04. Mediator\obj\Debug\netcoreapp3.1\04. Mediator.genruntimeconfig.cache
